@@ -55,4 +55,5 @@ class Box {
 
         rect.buildBox(new Point(10, 10), 50, 50);
         rect.printBox();
+    }
 }
